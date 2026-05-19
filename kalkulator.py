@@ -1,5 +1,5 @@
 def addiere(a, b):
-    return a + b
+    return a - b
 
 
 def teile(a, b):
